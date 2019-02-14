@@ -30,6 +30,7 @@ Again, we've had a lot of very good articles submitted, and not all of them coul
 
 * [Reflecting on My Failure to Build a Billion-Dollar Company](https://medium.com/@shl/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7), by [@shl](https://twitter.com/shl)
 * [How to take your iOS career to the next level](https://medium.com/skills-matter/how-to-take-your-mobile-development-career-to-the-next-level-e8d12d8e1543), by [@skillsmatter](https://twitter.com/skillsmatter), [@twostraws](https://twitter.com/twostraws) and [@purpleyay](https://twitter.com/purpleyay)
+* [Remote Workers: Managing for Success](https://appmanager.io/blog/tips-and-tricks/remote-workers-managing-for-success/), by [@davytsai](https://twitter.com/davytsai)
 
 **UI/UX**
 
