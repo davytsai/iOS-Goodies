@@ -9,7 +9,7 @@
 
 **Business/Career**
 
-* 
+* [Remote Workers: managing for success!](https://appmanager.io/blog/tips-and-tricks/remote-workers-managing-for-success/) by [@davytsai](https://twitter.com/davytsai)
 
 **UI/UX**
 
